@@ -20,4 +20,5 @@ func hasCycle(head *ListNode) bool {
 }
 
 func main() {
+	// main書け
 }
